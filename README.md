@@ -8,3 +8,4 @@
 
 ### **Programs/Tools**
 ![Intellij](https://img.shields.io/badge/intellij-white?style=for-the-badge&logo=intellijidea&logoColor=black)
+![Rider](https://img.shields.io/badge/rider-white?style=for-the-badge&logo=rider&logoColor=black)
