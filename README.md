@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-<!--START_SECTION-->
-<!--END_SECTION:waka-->
-## 🖥️ **Technology i use**
-
 ### **Languages**
 ![Java](https://img.shields.io/badge/java-white.svg?style=for-the-badge&logo=openjdk&logoColor=red)
 ![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin&logoColor=%23B125EA)
