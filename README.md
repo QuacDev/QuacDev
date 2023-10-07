@@ -3,7 +3,7 @@
 
 <!--START_SECTION-->
 <!--END_SECTION:waka-->
-## 🖥️ **Technology**
+## 🖥️ **Technology i use**
 
 ### **Languages**
 ![Java](https://img.shields.io/badge/java-white.svg?style=for-the-badge&logo=openjdk&logoColor=%FF0000FF&link=https%3A%2F%2Fopenjdk.org%2F)
