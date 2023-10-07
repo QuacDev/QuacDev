@@ -6,6 +6,5 @@
 ## 🖥️ **I Use**
 
 ![Java](https://img.shields.io/badge/java-white.svg?style=for-the-badge&logo=openjdk&logoColor=%FF0000FF&link=https%3A%2F%2Fopenjdk.org%2F)
+![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin&logoColor=%257F52FF&link=https%3A%2F%2Fkotlinlang.org%2F)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-<img alt="Static Badge" src="https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin&logoColor=%257F52FF&link=https%3A%2F%2Fkotlinlang.org%2F">
